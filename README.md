@@ -1,0 +1,1 @@
+An inline element – for example, a, strong, em, or span – doesn't start on a new line and usually does not contain additional elements, but instead just contains text. You can't explicitly set the width, height, margin, or padding of an inline element; instead, its dimensions are determined by how much space its contents require.s
