@@ -1,0 +1,26 @@
+main {
+	padding:30px;
+	font-size: 0px;
+}
+
+.inner {
+	height: 100px;
+	width: 25%;
+	display: inline-block;
+}
+
+.inner-one {
+	background-color: blue;
+}
+
+.inner-two {
+	background-color: green;
+}
+
+.inner-three {
+	background-color: yellow;
+}
+
+.inner-four {
+	background-color: red;
+}
